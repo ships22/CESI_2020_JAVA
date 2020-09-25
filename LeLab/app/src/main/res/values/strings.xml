@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LeLab</string>
+    <string name="editMessage">Entrer un message</string>
+    <string name="btnSend">ENVOYER</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TopQuiz</string>
+    <string name="txt_wlcome">Bienvenue, quel est votre prénom</string>
+    <string name="txt_hint">Entrez votre prénom</string>
+    <string name="txt_play">Au jeu!</string>
+    <string name="txt_score">Votre dernier score est de </string>
+</resources>
